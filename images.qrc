@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/0.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/3.png</file>
+        <file>images/4.png</file>
+        <file>images/5.png</file>
+        <file>images/6.png</file>
+        <file>images/7.png</file>
+        <file>images/8.png</file>
+        <file>images/9.png</file>
+        <file>images/lei.png</file>
+        <file>images/cry.gif</file>
+        <file>images/smile.gif</file>
+        <file>images/surprise.gif</file>
+        <file>images/Flag.png</file>
+        <file>images/question.png</file>
+        <file>images/empty.png</file>
+        <file>images/about.ico</file>
+        <file>images/option.ico</file>
+        <file>images/tubiao.ico</file>
+        <file>sounds/fail.wav</file>
+        <file>sounds/time.wav</file>
+        <file>sounds/win.wav</file>
+        <file>images/pit.png</file>
+        <file>images/statistics.ico</file>
+        <file>tubiao.ico</file>
+    </qresource>
+</RCC>
